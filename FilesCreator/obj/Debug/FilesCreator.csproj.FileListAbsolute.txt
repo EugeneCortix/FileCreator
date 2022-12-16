@@ -1,0 +1,15 @@
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\bin\Debug\FilesCreator.exe.config
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\bin\Debug\FilesCreator.exe
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\bin\Debug\FilesCreator.pdb
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\obj\Debug\FilesCreator.csprojAssemblyReference.cache
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\obj\Debug\MainWindow.g.cs
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\obj\Debug\App.g.cs
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\obj\Debug\FilesCreator_MarkupCompile.cache
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\obj\Debug\FilesCreator_MarkupCompile.lref
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\obj\Debug\MainWindow.baml
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\obj\Debug\FilesCreator.g.resources
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\obj\Debug\FilesCreator.Properties.Resources.resources
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\obj\Debug\FilesCreator.csproj.GenerateResource.cache
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\obj\Debug\FilesCreator.csproj.CoreCompileInputs.cache
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\obj\Debug\FilesCreator.exe
+C:\Users\TANYA\Documents\Study\Spline\FilesCreator\FilesCreator\obj\Debug\FilesCreator.pdb
